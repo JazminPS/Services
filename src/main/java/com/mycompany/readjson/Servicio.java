@@ -9,6 +9,7 @@ package com.mycompany.readjson;
  *
  * @author LIMOFUNA
  */
+/* Clase Servicio para el JSON*/
 public class Servicio {
      private long port;
      private String nameofservive;
