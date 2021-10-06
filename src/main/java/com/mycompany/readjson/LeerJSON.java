@@ -19,6 +19,7 @@ import org.json.simple.parser.ParseException;
  * @author LIMOFUNA
  */
 public class LeerJSON {
+    //Esta parte lee el archivo JSON
    Hashtable<String, Servicio> hashtableservicios = new Hashtable<String, Servicio>(); 
    Hashtable<String, Servicio> hasthtableservidor1 = new Hashtable<String, Servicio>(); 
    Hashtable<Integer, Servicio> hasthtableservidor2 = new Hashtable<Integer, Servicio>(); 
